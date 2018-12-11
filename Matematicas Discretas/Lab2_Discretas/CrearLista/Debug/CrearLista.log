@@ -1,0 +1,13 @@
+﻿cl : Línea de comandos warning D9035: La opción 'clr:pure' está desusada y se quitará en próximas versiones
+  stdafx.cpp
+cl : Línea de comandos warning D9035: La opción 'clr:pure' está desusada y se quitará en próximas versiones
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marcado como obsoleto
+  AssemblyInfo.cpp(40): note: Mensaje: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  CrearLista.cpp
+  Generando código...
+c:\users\lusec\onedrive\universidad\matematicas discretas\lab2_discretas\crearlista\form1.h(393): warning C4715: 'CrearLista::Form1::Indice': no todas las rutas de acceso de control devuelven un valor
+c:\users\lusec\onedrive\universidad\matematicas discretas\lab2_discretas\crearlista\form1.h(430): warning C4715: 'CrearLista::Form1::PosicionEnelBosque': no todas las rutas de acceso de control devuelven un valor
+cl : Línea de comandos warning D9035: La opción 'clr:pure' está desusada y se quitará en próximas versiones
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  CrearLista.vcxproj -> C:\Users\lusec\OneDrive\Universidad\Matematicas Discretas\Lab2_Discretas\Debug\CrearLista.exe

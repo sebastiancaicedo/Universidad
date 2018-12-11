@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrearLista", "CrearLista\CrearLista.vcxproj", "{C954CE0F-0E5E-44E5-86CF-632A5DD3C21A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C954CE0F-0E5E-44E5-86CF-632A5DD3C21A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C954CE0F-0E5E-44E5-86CF-632A5DD3C21A}.Debug|Win32.Build.0 = Debug|Win32
+		{C954CE0F-0E5E-44E5-86CF-632A5DD3C21A}.Release|Win32.ActiveCfg = Release|Win32
+		{C954CE0F-0E5E-44E5-86CF-632A5DD3C21A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
