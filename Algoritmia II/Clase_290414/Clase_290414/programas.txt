@@ -1,0 +1,28 @@
+CODPRG;NOMPRG;MNEPRG
+10;Ingenieria Industrial;II
+11;Ingenieria Mecanica;IM
+12;Ingenieria Civil;IC
+13;Ingenieria De Sistemas;IS
+14;Ingenieria Electrica;IE
+20;Medicina;MD
+21;Enfermeria;EN
+22;Enfermeria II Ciclo;EF
+23;Enfermeria;EN
+24;Medicina;MD
+30;Derecho;DR
+32;Psicologia;PS
+35;Educacion Prescolar;EP
+36;Recreacion;RE
+37;Licenciatura En Educacion Infantil;LI
+38;Licenciatura En Educacion Infantil;LI
+39;Comunicacion Social;CS
+40;Derecho;DR
+50;Administracion;AD
+60;Ingenieria Industrial;II
+61;Ingenieria Mecanica;IM
+62;Ingenieria Civil;IC
+63;Ingenieria Sistemas;IS
+64;Ingenieria Electrica;IE
+65;Ingenieria Electronica;IL
+95;Minor;MI
+99;Credito;CR

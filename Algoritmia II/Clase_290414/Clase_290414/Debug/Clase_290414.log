@@ -1,0 +1,32 @@
+﻿Compilación iniciada a las 29/04/2014 09:05:00 a.m..
+     1>Proyecto "C:\Users\perfil\Desktop\Clase_290414\Clase_290414\Clase_290414.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\Clase_290414.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Se omitirá el destino "GenerateTargetFrameworkMonikerAttribute" porque todos los archivos de salida están actualizados respecto a los archivos de entrada.
+       ClCompile:
+         Todas las salidas están actualizadas.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Clase_290414.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Clase_290414.cpp /clr:nostdlib 
+         Clase_290414.cpp
+         Todas las salidas están actualizadas.
+       CoreResGen:
+         Todas las salidas están actualizadas.
+       ResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\perfil\Desktop\Clase_290414\Debug\Clase_290414.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Clase_290414.Form1.resources /MANIFEST /ManifestFile:"Debug\Clase_290414.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\perfil\Desktop\Clase_290414\Debug\Clase_290414.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Clase_290414.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Clase_290414.vcxproj -> C:\Users\perfil\Desktop\Clase_290414\Debug\Clase_290414.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\perfil\Desktop\Clase_290414\Debug\Clase_290414.exe;#1" /manifest Debug\Clase_290414.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\Clase_290414.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\Clase_290414.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\perfil\Desktop\Clase_290414\Clase_290414\Clase_290414.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.84
