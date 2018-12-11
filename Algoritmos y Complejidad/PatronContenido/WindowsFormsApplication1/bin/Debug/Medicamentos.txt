@@ -1,0 +1,131 @@
+aclicovir tab 200 mg;J03AA006011
+aciclovir unguento;J01AA006611
+amlodipino 5 mg;C08CA037011
+amiodarona tab;C01BA023011
+acetato de aluminio polvo (sobre);D08AA016311
+acido retinoico locion;D10AR003371
+amoxicilina cap 500 mg;J01CA025142
+amoxicilina susp 250 mg;J01CA025232
+amoxicilina susp 125 mg;J01CA025231
+acido ascorbico gotas;A11GA031201
+acido ascorbico tab;A11GA031011
+alopurinol 300 mg;M04AA013012
+acetaminofen tab;N02BA001011
+acetaminofen gotas;N02BA001201
+acetaminofen jarabe;N02BA001221
+amitriptilina tab;N06AA024011
+albendazol tab;P02CA008011
+albendazol susp;P02CA008231
+acido folico tab;B03BA014011
+asa tab;N02BA003011
+betametazona crema;D07AB004321
+betametazona iny 4 mg;H02AB005701
+bromuro ipratropio;R01A1017471
+beclometazona 50 mcg;R03BB002451
+beclometazona 250 mcg;R03BB002452
+bisacolido;A06AB010021
+captopril 25 mg;C09AC004011
+captopril 50 mg;C09AC031301
+clotrimazol locion;D01AC031301
+clotrimazol crema;D01AC031321
+clotrimazol cr vag;D01AC031511
+clotrimazol ovulo;D01AC031501
+crotamiton locion;D04AC042371
+cefalexina cap;J01DC008142
+cefalexina susp;J01DC008232
+ciprofloxacina 500 mg;J01MC015012
+calcio 600;A12AC001011
+clorfeniramina tab;R06AC027011
+clorfeniramina jarabe;R06AC026221
+clotri+neomi+dexam crema;S01AN003601
+cromoglicato oftal 2 %;S01GC041601
+cromoglicato oftal 4 %;S01GC041602
+colist+cortic+neom gts otica;S02CC036401
+cafeina+ergotamina;N02CE006141
+carbamazepina tab 200 mg;N03AC005011
+cromoglicato nasal 2 %;R01AC041421
+cromoglicato nasal 4 %;R01AC041422
+colestiramina sobre;B04AC035251
+dexametazona 4;H02AD006701
+dexametazona 8;H02AD005711
+doxiciclina cap;J01CD016102
+dicloxacina cap;J01CD016102
+dicloxacina susp 250;J01CD016232
+diclofenaco tab 50 mg;M01AD015021
+diclofenaco iny;M01AD015701
+difenhidranato tab;N07CD023011
+enalapril 5 mg;C09AE002011
+enalapril 20 mg;C09AE002112
+eritromicina tab;J01FE007141
+eritromicina susp;J01FE007231
+espirolactona 25;C03DE008011
+estrogenos conjugados crema 0625;G03CE011511
+estrogenos conjugados tab 0625;G03CE012161
+fluconazol 200;J02AF009101
+furazolidona tab;P01AF016011
+furazolidona susp;P01AF016231
+furosemida tab;C03CF017011
+genfibrozilo 600;B04AG002011
+gentamicina 20;J01GG003701
+gentamicina 40;J01GG003702
+gentamicina 80;J01GG003703
+gentamicina 160;J01GG003704
+gentamicina gotas;J01GG003601
+glibencamida tab;A10BG004011
+hidrox alum+sime;A02AA018231
+hidroxido aluminio;A02AA017231
+hidrocortizona crema;D07OH007321
+hiocina tab;A03BH013021
+hidroclorotiazida 25;C03AH006011
+ibuprofeno 400;M01AI002011
+insulina NPH;A10AI009711
+ketoconazol susp;J02AK002031
+ketoconazol tab;J02AK002011
+ketotifeno jarabe;R03DK003221
+ketotifeno tab;R03DK003011
+lovastatina tab;B04AL018011
+loratadina tab;R06AL016011
+loratadina jarabe;R06AL016221
+metoprolol 50;C07AM017161
+metoprolol 100;C07AM017162
+metrodinazol ovulo;G01AM020501
+metrodinazol susp 250;P01AM022231
+metrodinazol tab 500;P01AM020012
+metformina 850;A10BM011011
+metocarbamol tab;M03BM015011
+nifedipino 10;C08CN006101
+nifedipino 30;C08CN006151
+nimodipino 30;C08CN008141
+nitrofurantoina;G04AN010142
+norfloxacina 400;J01MN012141
+naproxeno susp;M01AN002231
+naproxeno cap;M01AN002141
+neomi+polim gotas;S01AN003601
+nistatina susp;J02AN009231
+omeprazol cap;A02BO002101
+oximetazolina 025;R01AO006421
+oximetazolina 05;R01AO006422
+penicilina benzatilica 1200;J01CP005721
+penicilina benzatilica 2400;J01CP005722
+pirantel susp;P02CP012231
+pirantel tab;P02CP012231
+penicilina procainica 400;J01CP006721
+penicilina procainica 800;J01CP006722
+polim+neomi+cort oft;S01CC038601
+prednisolona;H02AP027011
+ranitidina 150;A02BR001011
+ranitidina 300;A02BR001012
+salbutamol jarabe;R03CS001221
+suero oral;A07CS02251
+sucralfato;A02BS014011
+teofilina 125;R03DT004151
+tiamina tab;A11DT009141
+tiamina iny;A11DT009701
+tinidazol tab 500;P01AT012011
+trimetreopin susp;J01ET025231
+trimetropin tab 80/400;J01ET025011
+trimetropin tab 160/800;J01ET025012
+teofilina 300;R03DT004141
+verapamilo 80;C08DV016141
+verapamilo 120;C08DV016011
+vitamina A;A11CV019141
