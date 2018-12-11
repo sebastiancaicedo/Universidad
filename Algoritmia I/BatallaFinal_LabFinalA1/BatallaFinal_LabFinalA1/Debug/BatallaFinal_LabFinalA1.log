@@ -1,0 +1,3 @@
+﻿  BatallaFinal.cpp
+c:\users\lusec\onedrive\universidad\algoritmia i\batallafinal_labfinala1\batallafinal_labfinala1\batallafinal.cpp(321): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BatallaFinal_LabFinalA1.vcxproj -> C:\Users\lusec\OneDrive\Universidad\Algoritmia I\BatallaFinal_LabFinalA1\Debug\BatallaFinal_LabFinalA1.exe
