@@ -1,0 +1,63 @@
+  Lab_Datos.Form1.resources - Embedded, ContainedInManifestFile, 
+  Lab_Datos.Puntajes.resources - Embedded, ContainedInManifestFile, 
+  Lab_Datos.RegistrarJugador.resources - Embedded, ContainedInManifestFile, 
+  Lab_Datos.Ventana.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Lab_Datos, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Lab_Datos.Ventana: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 disparos : Public
+    System.String[] utilizabarcos : Public
+    Int32 start IsLong : Public
+    TiposBotes PTRB : Public, Static
+    NodoFila PTR : Public, Static
+Class Lab_Datos.Ventana+Botes: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String posiciones : Public
+    System.String[] pos : Public
+    System.String disparos : Public
+    System.String[] disparosrec : Public
+    Botes link3 : Public
+Class Lab_Datos.Ventana+TiposBotes: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String tipo : Public
+    Int32 cant : Public
+    TiposBotes link1 : Public
+    Botes link2 : Public
+Class Lab_Datos.Ventana+NodoCol: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 info : Public
+    NodoCol link3 : Public
+Class Lab_Datos.Ventana+NodoFila: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 info : Public
+    NodoFila Link1 : Public
+    NodoCol link2 : Public
+Class Lab_Datos.RegistrarJugador: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Lab_Datos.Puntajes: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Lab_Datos.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
